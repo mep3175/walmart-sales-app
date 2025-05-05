@@ -42,7 +42,7 @@ streamlit run streamlit_app.py
 ## 🌐 Live App
 
 You can access the live deployed app here:  
-👉 [Streamlit App](https://your-deployed-url.streamlit.app) *(replace this with your real URL)*
+👉 [Streamlit App](https://walmart-sales-app-gb4svtzvacdrdfmsxahryc.streamlit.app/) 
 
 ## 📁 Project Structure
 
@@ -59,7 +59,20 @@ You can access the live deployed app here:
 
 ## ✨ Screenshots
 
-_(You can add screenshots of your app UI or predictions here to make it visual.)_
+
+
+#### 🔮 Streamlit App Interface
+![Streamlit UI](chart_sales_trend.png)
+
+#### 📊 Average Sales per Store
+![Average Sales Chart](chart_avg_sales_store.png)
+
+#### 📦 Holiday vs Non-Holiday Sales Boxplot
+![Holiday Boxplot](chart_holiday_boxplot.png)
+
+#### 🔥 Correlation Heatmap
+![Correlation Heatmap](chart_correlation_heatmap.png)
+
 
 ## 👨‍💻 Author
 
